@@ -44,7 +44,7 @@ class UcmActivityDifference:
     def argument_parser(self):
         """Handle arguments of this module"""
 
-        parser = argparse.ArgumentParser(description="Displays UCM activity differences. You must be in a UCM view.")
+        parser = argparse.ArgumentParser(description="Displays graphical UCM activity differences. You must be in a UCM view.")
         parser.add_argument('activity', help="UCM activity.")
         return parser.parse_args().activity
 
