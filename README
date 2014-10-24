@@ -1,6 +1,6 @@
 UCM-Tools
 =========
-Provide UCM Clearcase python tools for designers.
+Provide UCM Clearcase tools for designers.
 
 ucm_activity_difference.py: 
     Description:
