@@ -1,5 +1,5 @@
 # UCM-ClearCase-Tools
-=====================
+
 Provide UCM Clearcase tools for designers.
 
 ## ucm_activity_difference.py
