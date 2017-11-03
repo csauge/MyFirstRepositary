@@ -1,4 +1,4 @@
-# UCM-ClearCase-Tools
+# UCM-Tools
 
 Provide UCM Clearcase tools for designers.
 
